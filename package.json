@@ -1,0 +1,23 @@
+{
+  "name": "@hero-page/hero-emoji-utils",
+  "version": "1.0.0",
+  "description": "A package for working with emojis in strings, allowing users to manipulate strings containing any type of emojis.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node tests.js"
+  },
+  "repository": {},
+  "keywords": [
+    "emoji",
+    "string",
+    "manipulation",
+    "characters",
+    "split",
+    "count",
+    "country flags",
+    "skin-tone-modified emojis"
+  ],
+  "author": "Sam Chahine",
+  "license": "MIT",
+  "dependencies": {}
+}
